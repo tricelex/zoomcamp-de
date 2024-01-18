@@ -327,4 +327,4 @@ cython_debug/
 *.gz
 *.hcl
 *.tfx
-/week_1_basics_n_setup/ny_taxi_postgres_data/
+/01-docker-terraform/ny_taxi_postgres_data/
