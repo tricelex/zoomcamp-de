@@ -328,3 +328,5 @@ cython_debug/
 *.hcl
 *.tfx
 /01-docker-terraform/ny_taxi_postgres_data/
+.ipynb_checkpoints/
+ny_taxi_postgres_data/
